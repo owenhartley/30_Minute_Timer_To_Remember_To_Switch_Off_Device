@@ -1,5 +1,5 @@
 {
-    "name": "Servo alarm (just to remember to stop power on servo)",
+    "name": "30 Minute Timer To Remember To Switch Off Device",
     "description": "",
     "dependencies": {
         "core": "*",
