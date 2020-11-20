@@ -1,6 +1,4 @@
 
-> Open this page at [https://owenhartley.github.io/30_minute_timer_to_remember_to_switch_off_device/](https://owenhartley.github.io/30_minute_timer_to_remember_to_switch_off_device/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
@@ -23,7 +21,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/owenhartley/30_minute_timer_to_remember_to_switch_off_device/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/owenhartley/hokjnb_To_Switch_Off_Device/blob/master/Picture.png)
 
 #### Metadata (used for search, rendering)
 
